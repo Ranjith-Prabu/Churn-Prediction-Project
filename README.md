@@ -1,2 +1,2 @@
 # Telecom Churn Prediction
-A Telecom company would like to predict the Churn and the reasons for the churn in order to proactively make better decisions to reduce churn. I have used Logistic Regression & Random Forest to predict and classify the customer will churn/not churn. Ultimately found the top most factors impacting churn in this telecom company.
+A Telecom company would like to predict the Churn and the reasons for the churn in order to proactively make better decisions to reduce churn. I have used Logistic Regression & Random Forest to predict and classify the customer will churn/not churn. Ultimately found the top most factors impacting churn in this telecom company. These insights will help the telecom company to be proactive in reducing customer churn.
